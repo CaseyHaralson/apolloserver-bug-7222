@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "NodeNext", // vs "node"
+    "esModuleInterop": true,
+    "rootDir": "./src",
+    "outDir": "./build"
+  }
+}
